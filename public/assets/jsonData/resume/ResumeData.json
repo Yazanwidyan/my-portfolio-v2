@@ -1,0 +1,125 @@
+{
+    "biographyData": [
+        {
+            "id": 1,
+            "title": "Name",
+            "info": "Yazan Widyan"
+        },
+        {
+            "id": 2,
+            "title": "Birthday",
+            "info": "4 May, 1994"
+        },
+        {
+            "id": 4,
+            "title": "Address",
+            "info": "Amman, Mecca st"
+        },
+        {
+            "id": 5,
+            "title": "Email",
+            "info": "yazanwidyan07@gmail.com"
+        },
+        {
+            "id": 6,
+            "title": "Phone",
+            "info": "+(962)795382171"
+        }
+      
+    ],
+    "skillData": [
+        {
+            "id": 2,
+            "icon": "fab fa-html5",
+            "title": "Advance frontend development",
+            "end": 100
+        },
+        {
+            "id": 1,
+            "icon": "fab fa-react",
+            "title": "React js",
+            "end": 100
+        },
+        {
+            "id": 1,
+            "icon": "fab fa-react",
+            "title": "Next js",
+            "end": 100
+        },
+        {
+            "id": 3,
+            "icon": "fab fa-react",
+            "title": "React Native",
+            "end": 100
+        },
+        {
+            "id": 5,
+            "icon": "fas fa-project-diagram",
+            "title": "Agile Methodologies",
+            "end": 95
+        },
+        {
+            "id": 6,
+            "icon": "fab fa-bootstrap",
+            "title": "Bootstrap",
+            "end": 95
+        },
+        {
+            "id": 7,
+            "icon": "fas fa-mobile-alt",
+            "title": "Responsive Web Design",
+            "end": 97
+        },
+        {
+            "id": 8,
+            "icon": "fas fa-cogs",
+            "title": "REST APIs",
+            "end": 96
+        },
+        {
+            "id": 9,
+            "icon": "fab fa-git",
+            "title": "Git",
+            "end": 95
+        }
+    ],
+    "educationData": [
+        {
+            "id": 2,
+            "title": "Internship",
+            "subTitle": "WTM / CG Imagine + Invent",
+            "timeSpan": "Dec 2019 - Mar 2020",
+            "text": "Internship program with WTM / CG Imagine + Invent focusing on real-world applications and experience."
+          },
+          {
+             "id": 3,
+             "title": "Bachelor's of English/Arabic Translation",
+             "subTitle": "Yarmouk University",
+             "timeSpan": "2017",
+             "text": "Bachelor's degree in English/Arabic Translation from Yarmouk University, focusing on translation skills between English and Arabic languages."
+            }
+    ],
+    "experinceData": [
+        {
+            "id": 1,
+            "title": "React Native & React JS Developer",
+            "subTitle": "HWK (Hello World Kids)",
+            "timeSpan": "Jul 2024 - Present",
+            "text": "Currently developing and maintaining mobile applications with React Native and web applications with React JS for Hello World Kids. Responsibilities include designing scalable UI components, managing application state, integrating with APIs, and ensuring a responsive user experience."
+        },          
+        {
+            "id": 2,
+            "title": "React Native & React JS Developer",
+            "subTitle": "IHR (International Human Resources)",
+            "timeSpan": "Aug 2020 - Jul 2024",
+            "text": "Developing and maintaining mobile applications using React Native and web applications using React JS. Responsibilities include designing user interfaces, managing state, integrating with REST APIs, and ensuring high performance and responsiveness."
+        },
+        {
+            "id": 3,
+            "title": "React Native & React JS Developer",
+            "subTitle": "WTM  (We The Makers)",
+            "timeSpan": "Dec 2019 - Aug 2020",
+            "text": "Developed and maintained mobile applications using React Native and web applications using React JS. Responsibilities included designing user interfaces, managing state, integrating with REST APIs, and ensuring high performance and responsiveness."
+        }
+    ]
+}
